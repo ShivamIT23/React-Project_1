@@ -23,7 +23,7 @@ a:hover {
 }
 
 body {
-  background-image: url(./assets/background_1);
+  background-image: url(./assets/background_1.png);
   margin: 0;
   display: flex;
   place-items: center;
